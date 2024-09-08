@@ -49,22 +49,7 @@
     <br />
     </td>
   <td align="center">
-    <a href="https://github.com/beenbb">
-      <img src="https://avatars.githubusercontent.com/u/157565812?v=4" width="100px;" alt=""/>
-      <br />
-      <sub>
-        <b>안예빈</b>
-      </sub>
-    </a>
-    <br />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-## Project Summary
-- 강서구의 현안을 분석하여 해결책을 제시하는 프로젝트로, 강서구의 교통 안전 문제를 해결하고자 후방단속 카메라의 입지 선정을 제시함.
+    <함
 
 **ML_project_SSJG_Gangseo**
 - 대회명 : 강서구 빅데이터 분석 공모전
@@ -105,8 +90,7 @@
 
 ## ETCs
 
-웹 구현: (링크를 넣어주세요)
+태블로: (링크를 넣어주세요)
 
 <br/><br/>
 
-참고: [마크다운 사용법 예시](https://theorydb.github.io/envops/2019/05/22/envops-blog-how-to-use-md/)
