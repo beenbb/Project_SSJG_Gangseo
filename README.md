@@ -12,14 +12,15 @@
 
 ## Period
 ### 2024.3 ~ 2024.5 [본선 진출 포함]
+### 장려상 수상
 <br/>
 
 ## Team
 <table>
   <tr>
     <td align="center">
-    <a href="https://github.com/StatisticsFox">
-      <img src="https://avatars.githubusercontent.com/u/92065443?v=4" width="100px;" alt=""/>
+    <a href="https://github.com/sbang9">
+      <img src="https://avatars.githubusercontent.com/u/139520591?v=4" width="100px;" alt=""/>
       <br />
       <sub>
         <b>방승일</b>
@@ -49,8 +50,8 @@
     </td>
   </tr>
   <td align="center">
-    <a href="https://github.com/StatisticsFox">
-      <img src="https://avatars.githubusercontent.com/u/92065443?v=4" width="100px;" alt=""/>
+    <a href="https://github.com/beenbb">
+      <img src="https://avatars.githubusercontent.com/u/157565812?v=4" width="100px;" alt=""/>
       <br />
       <sub>
         <b>안예빈</b>
@@ -59,25 +60,20 @@
     <br />
     </td>
 </table>
-  
-  * 위와 같은 방식으로 깃허브 링크를 걸어주시면 됩니다.
-  * 기타 블로그, 티스토리, 노션 등 본인을 소개할 수 있는 페이지도 좋습니다.
-
-<br/>
 
 <br/>
 
 ## Project Summary
-- 프로젝트를 자유양식으로 자유롭게 설명해주세요
+- 강서구의 현안을 분석하여 해결책을 제시하는 프로젝트로, 강서구의 교통 안전 문제를 해결하고자 후방단속 카메라의 입지 선정을 제시함.
 
-**ML_project_Taitanic**
-- 대회명 : 타이타닉 생존자 예측
-- 팀명 : 오승태콤미쳤팀
-- 주제 : 타이타님 생존자를 예측하는 ML 구현
+**ML_project_SSJG_Gangseo**
+- 대회명 : 강서구 빅데이터 분석 공모전
+- 팀명 : 승승장구
+- 주제 : 강서구 교통 취약 행정동을 분석해 후방 단속 카메라의 입지 선정
 
 
 - 데이터셋 : 데이콘(https://dacon.io/competitions/open/235539/overview/description)
-- 목적/효과 : 타이타님 생존자의 정보를 ~~~~~~~ 예측하는 모델을 ~~~~~~~~~ 이용하여 ㅇ떻게 ~~~~~~ 개발
+- 목적/효과 : 강서구의 정보를 군집화하는 모델과 선정 군집에 MCLP 알고리즘을 통해 후방 단속 카메라의 입지를 선정하여 교통 문제를 해결
 - 기술스택<div align=left> 
    `전처리` : 
    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white">
@@ -88,10 +84,9 @@
    <img src="https://img.shields.io/badge/Seaborn-0080ff?style=for-the-badge&logo=Seaborn&logoColor=white">
        <br>
    `ML 모델` : 
-   <img src="https://img.shields.io/badge/sckit-learn-F7931E?style=for-the-badge&logo=sckit-learn&logoColor=white">
-   <img src="https://img.shields.io/badge/lightGBM-ffd400?style=for-the-badge&logo=&logoColor=white">
-   <img src="https://img.shields.io/badge/XGBoost-4aa8d8?style=for-the-badge&logo=&logoColor=white">
-   <img src="https://img.shields.io/badge/CatBoost-fff44f?style=for-the-badge&logo=&logoColor=white">
+   <img src="https://img.shields.io/badge/PCA-F7931E?style=for-the-badge&logo=PCA&logoColor=white">
+   <img src="https://img.shields.io/badge/K-means-ffd400?style=for-the-badge&logo=K-means&logoColor=white">
+   <img src="https://img.shields.io/badge/MCLP-4aa8d8?style=for-the-badge&logo=MCLP&logoColor=white">
        <br>
    `협업도구` : 
    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
@@ -101,10 +96,11 @@
        <br>
    </div>
 
-- 역할분담 
-   - `최지혁` : EDA, 시각화
-   - `오승태` : 전처리, 통계검증
-   - `정래경` : 머신러닝 학습, 모델링, 모델 최적화
+- 역할분담
+   - `정래경` : 자료조사, 전처리, 군집화, 보고서 작성
+   - `안예빈` : EDA, 자료조사, 전처리, 보고서 작성
+   - '방승일' : EDA, 자료조사, 전처리, 군집화
+   - `오승태` : 자료조사, 전처리, MCLP 모델링
 <br/>
 
 ## ETCs
