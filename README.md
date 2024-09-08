@@ -48,7 +48,6 @@
     </a>
     <br />
     </td>
-  </tr>
   <td align="center">
     <a href="https://github.com/beenbb">
       <img src="https://avatars.githubusercontent.com/u/157565812?v=4" width="100px;" alt=""/>
@@ -59,6 +58,7 @@
     </a>
     <br />
     </td>
+  </tr>
 </table>
 
 <br/>
