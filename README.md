@@ -19,6 +19,16 @@
 <table>
   <tr>
     <td align="center">
+    <a href="https://github.com/jeongraekyeong">
+      <img src="https://avatars.githubusercontent.com/u/162093449?v=4" width="100px;" alt=""/>
+      <br />
+      <sub>
+        <b>**정래경**</b>
+      </sub>
+    </a>
+    <br />
+    </td>
+    <td align="center">
     <a href="https://github.com/sbang9">
       <img src="https://avatars.githubusercontent.com/u/139520591?v=4" width="100px;" alt=""/>
       <br />
@@ -34,16 +44,6 @@
       <br />
       <sub>
         <b>오승태</b>
-      </sub>
-    </a>
-    <br />
-    </td>
-    <td align="center">
-    <a href="https://github.com/jeongraekyeong">
-      <img src="https://avatars.githubusercontent.com/u/162093449?v=4" width="100px;" alt=""/>
-      <br />
-      <sub>
-        <b>정래경</b>
       </sub>
     </a>
     <br />
@@ -99,7 +99,7 @@
 - 역할분담
    - `정래경` : 자료조사, 전처리, 군집화, 보고서 작성
    - `안예빈` : EDA, 자료조사, 전처리, 보고서 작성
-   - '방승일' : EDA, 자료조사, 전처리, 군집화
+   - `방승일` : EDA, 자료조사, 전처리, 군집화
    - `오승태` : 자료조사, 전처리, MCLP 모델링
 <br/>
 
