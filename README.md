@@ -19,37 +19,37 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/jeongraekyeong">
-        <img src="https://avatars.githubusercontent.com/u/162093449?v=4" width="100px;" alt=""/>
-        <br />
-        <sub><b>정래경</b></sub>
-      </a>
+    <a href="https://github.com/jeongraekyeong">
+      <img src="https://avatars.githubusercontent.com/u/162093449?v=4" width="100px;" alt=""/>
       <br />
+      <sub>
+        <b>**정래경**</b>
+      </sub>
+    </a>
+    <br />
     </td>
     <td align="center">
-      <a href="https://github.com/sbang9">
-        <img src="https://avatars.githubusercontent.com/u/139520591?v=4" width="100px;" alt=""/>
-        <br />
-        <sub><b>방승일</b></sub>
-      </a>
+    <a href="https://github.com/sbang9">
+      <img src="https://avatars.githubusercontent.com/u/139520591?v=4" width="100px;" alt=""/>
       <br />
+      <sub>
+        <b>방승일</b>
+      </sub>
+    </a>
+    <br />
     </td>
     <td align="center">
-      <a href="https://github.com/ohseungtae">
-        <img src="https://avatars.githubusercontent.com/u/126853146?v=4" width="100px;" alt=""/>
-        <br />
-        <sub><b>오승태</b></sub>
-      </a>
+    <a href="https://github.com/ohseungtae">
+      <img src="https://avatars.githubusercontent.com/u/126853146?v=4" width="100px;" alt=""/>
       <br />
+      <sub>
+        <b>오승태</b>
+      </sub>
+    </a>
+    <br />
     </td>
-    <td align="center">
-      <a href="https://github.com/beenbb">
-        <img src="https://avatars.githubusercontent.com/u/124653015?v=4" width="100px;" alt=""/>
-        <br />
-        <sub><b>안예빈</b></sub>
-      </a>
-      <br />
-      </td>
+  <td align="center">
+    <함
 
 **ML_project_SSJG_Gangseo**
 - 대회명 : 강서구 빅데이터 분석 공모전
@@ -93,6 +93,3 @@
 태블로: (링크를 넣어주세요)
 
 <br/><br/>
-    </td>
-  </tr>
-</table>
