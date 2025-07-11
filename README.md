@@ -23,7 +23,7 @@
       <img src="https://avatars.githubusercontent.com/u/162093449?v=4" width="100px;" alt=""/>
       <br />
       <sub>
-        <b>**정래경**</b>
+        <b>정래경</b>
       </sub>
     </a>
     <br />
@@ -44,6 +44,16 @@
       <br />
       <sub>
         <b>오승태</b>
+      </sub>
+    </a>
+    <br />
+    </td>
+    <td align="center">
+    <a href="https://github.com/jeongraekyeong">
+      <img src="https://avatars.githubusercontent.com/u/162093449?v=4" width="100px;" alt=""/>
+      <br />
+      <sub>
+        <b>안예빈</b>
       </sub>
     </a>
     <br />
