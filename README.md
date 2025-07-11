@@ -48,7 +48,16 @@
     </a>
     <br />
     </td>
-  <td align="center">
+    <td align="center">
+    <a href="https://github.com/beenbb">
+      <img src="https://avatars.githubusercontent.com/u/124653015?v=4" width="100px;" alt=""/>
+      <br />
+      <sub>
+        <b>안예빈</b>
+      </sub>
+    </a>
+    <br />
+    </td>
     <함
 
 **ML_project_SSJG_Gangseo**
