@@ -67,7 +67,7 @@
 - 주제 : 강서구 교통 취약 행정동을 분석해 후방 단속 카메라의 입지 선정
 
 
-- 데이터셋 : 데이콘(https://dacon.io/competitions/open/235539/overview/description)
+- 데이터셋 : 서울열린데이터광장(https://data.seoul.go.kr/)
 - 목적/효과 : 강서구의 정보를 군집화하는 모델과 선정 군집에 MCLP 알고리즘을 통해 후방 단속 카메라의 입지를 선정하여 교통 문제를 해결
 - 기술스택<div align=left> 
    `전처리` : 
