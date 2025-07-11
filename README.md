@@ -49,7 +49,7 @@
     <br />
     </td>
     <td align="center">
-    <a href="https://github.com/jeongraekyeong">
+    <a href="https://github.com/beenbb">
       <img src="https://avatars.githubusercontent.com/u/162093449?v=4" width="100px;" alt=""/>
       <br />
       <sub>
